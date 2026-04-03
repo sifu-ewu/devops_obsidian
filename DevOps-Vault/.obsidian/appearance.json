@@ -3,6 +3,8 @@
   "theme": "obsidian",
   "cssTheme": "",
   "baseFontSize": 16,
-  "interfaceFontSize": 14,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "devops-premium"
+  ]
 }
