@@ -1,6 +1,7 @@
 ---
 aliases: [Birth of Linux, Linus Torvalds, GNU Linux]
 tags: [part0, linux-history, open-source]
+completed: false
 chapter: 0.2
 ---
 
@@ -94,4 +95,7 @@ Lines of code in Linux kernel: ~30 MILLION
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 0.1 — The World Before Linux]] | [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.3 — Why Linux Won]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 0.1 — The World Before Linux]] | [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.3 — Why Linux Won]]

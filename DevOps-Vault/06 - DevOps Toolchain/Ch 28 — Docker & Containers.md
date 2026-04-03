@@ -1,6 +1,7 @@
 ---
 aliases: [Docker, Containers, Dockerfile, Docker Compose]
 tags: [part6, devops-tools, docker, containers, compose]
+completed: false
 chapter: 28
 ---
 
@@ -135,4 +136,7 @@ docker-compose down; docker-compose down -v
 
 ---
 
-> **Navigation:** [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 29 — CI-CD Pipelines]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 29 — CI-CD Pipelines]]

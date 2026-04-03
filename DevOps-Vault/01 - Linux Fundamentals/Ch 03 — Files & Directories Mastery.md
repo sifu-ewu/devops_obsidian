@@ -1,6 +1,7 @@
 ---
 aliases: [Files and Directories, File Operations, find, tar]
 tags: [part1, linux-fundamentals, files, directories]
+completed: false
 chapter: 3
 ---
 
@@ -152,4 +153,7 @@ unzip myfiles.zip
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 02 — The Linux File System]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 04 — File Permissions]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 02 — The Linux File System]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 04 — File Permissions]]

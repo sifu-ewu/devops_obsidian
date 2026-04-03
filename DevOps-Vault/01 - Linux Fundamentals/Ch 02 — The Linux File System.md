@@ -1,6 +1,7 @@
 ---
 aliases: [Linux File System, Directory Structure, FHS]
 tags: [part1, linux-fundamentals, filesystem, directories]
+completed: false
 chapter: 2
 ---
 
@@ -104,4 +105,7 @@ lsblk                   # What disks/partitions exist?
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 01 — Your First Day on Linux]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 03 — Files & Directories Mastery]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 01 — Your First Day on Linux]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 03 — Files & Directories Mastery]]

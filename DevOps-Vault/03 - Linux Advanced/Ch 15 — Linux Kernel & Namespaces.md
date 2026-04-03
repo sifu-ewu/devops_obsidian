@@ -1,6 +1,7 @@
 ---
 aliases: [Kernel, Namespaces, cgroups, Docker Internals]
 tags: [part3, linux-advanced, kernel, namespaces, cgroups, containers]
+completed: false
 chapter: 15
 ---
 
@@ -101,4 +102,7 @@ systemctl set-default multi-user.target  # Server mode (no GUI)
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 14 — SSH & Remote Access]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 16 — Performance Tuning]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 14 — SSH & Remote Access]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 16 — Performance Tuning]]

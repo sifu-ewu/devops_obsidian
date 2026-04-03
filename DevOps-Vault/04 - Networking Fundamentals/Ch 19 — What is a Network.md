@@ -1,6 +1,7 @@
 ---
 aliases: [What is a Network, Network Types, Data Travel]
 tags: [part4, networking, fundamentals, network-types]
+completed: false
 chapter: 19
 ---
 
@@ -70,4 +71,7 @@ Total time: ~200-400 milliseconds!
 
 ---
 
-> **Navigation:** [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 20 — OSI & TCP-IP Models]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 20 — OSI & TCP-IP Models]]

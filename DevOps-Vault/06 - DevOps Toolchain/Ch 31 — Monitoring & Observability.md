@@ -1,6 +1,7 @@
 ---
 aliases: [Monitoring, Observability, Prometheus, Grafana, Alerting]
 tags: [part6, devops-tools, monitoring, prometheus, grafana, observability]
+completed: false
 chapter: 31
 ---
 
@@ -91,4 +92,7 @@ groups:
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 30 — Infrastructure as Code]] | [[Part 6 — DevOps Toolchain]] | **Next Part →** [[Part 7 — Practice]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 30 — Infrastructure as Code]] | [[Part 6 — DevOps Toolchain]] | **Next Part →** [[Part 7 — Practice]]

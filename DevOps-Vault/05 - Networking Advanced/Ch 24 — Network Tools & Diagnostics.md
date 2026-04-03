@@ -1,6 +1,7 @@
 ---
 aliases: [Network Tools, Diagnostics, ping, traceroute, tcpdump, ss, netcat]
 tags: [part5, networking-advanced, tools, diagnostics, tcpdump]
+completed: false
 chapter: 24
 ---
 
@@ -79,4 +80,7 @@ nload; iftop; nethogs; bmon
 
 ---
 
-> **Navigation:** [[Part 5 — Networking Advanced]] | **Next →** [[Ch 25 — Firewalls & Network Security]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> [[Part 5 — Networking Advanced]] | **Next →** [[Ch 25 — Firewalls & Network Security]]

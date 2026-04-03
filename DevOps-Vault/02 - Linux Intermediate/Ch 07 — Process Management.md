@@ -1,6 +1,7 @@
 ---
 aliases: [Process Management, ps, top, kill]
 tags: [part2, linux-intermediate, processes, monitoring]
+completed: false
 chapter: 7
 ---
 
@@ -102,4 +103,7 @@ renice -n 5 -p 1234                  # Change running process priority
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 06 — Package Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 08 — Bash Shell Scripting]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 06 — Package Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 08 — Bash Shell Scripting]]

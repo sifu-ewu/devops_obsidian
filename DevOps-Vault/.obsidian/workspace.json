@@ -11,10 +11,13 @@
             "id": "5a2dda3e24fdbfbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Progress Tracker.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Progress Tracker"
             }
           }
         ]
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Progress Tracker.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Progress Tracker"
             }
           },
           {
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Progress Tracker.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Progress Tracker"
             }
           },
           {
@@ -150,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Progress Tracker.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Progress Tracker"
             }
           },
           {
@@ -191,6 +197,10 @@
   "lastOpenFiles": [
     "00 - The Story of Linux/Part 0 — The Story of Linux.md",
     "Home.md",
+    "00 - The Story of Linux/Ch 0.2 — Birth of Linux.md",
+    "00 - The Story of Linux/Ch 0.1 — The World Before Linux.md",
+    "Progress Tracker.base",
+    "07 - Practice/DevOps Roadmap.md",
     "04 - Networking Fundamentals/Ch 23 — HTTP HTTPS & Web.md"
   ]
 }

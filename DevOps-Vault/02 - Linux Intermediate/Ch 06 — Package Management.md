@@ -1,6 +1,7 @@
 ---
 aliases: [Package Management, apt, yum, dnf]
 tags: [part2, linux-intermediate, packages, apt, yum]
+completed: false
 chapter: 6
 ---
 
@@ -91,4 +92,7 @@ npm install -g pm2              # Node.js packages
 
 ---
 
-> **Navigation:** [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 07 — Process Management]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 07 — Process Management]]

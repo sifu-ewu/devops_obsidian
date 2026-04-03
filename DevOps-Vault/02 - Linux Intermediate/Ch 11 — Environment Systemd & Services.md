@@ -1,6 +1,7 @@
 ---
 aliases: [Systemd, Services, journalctl, Environment Variables]
 tags: [part2, linux-intermediate, systemd, services, systemctl]
+completed: false
 chapter: 11
 ---
 
@@ -93,4 +94,7 @@ journalctl --vacuum-size=500M       # Trim logs to 500MB
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 10 — Storage & Disk Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 12 — Cron Jobs & Automation]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 10 — Storage & Disk Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 12 — Cron Jobs & Automation]]

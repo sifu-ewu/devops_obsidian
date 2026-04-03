@@ -1,6 +1,7 @@
 ---
 aliases: [File Permissions, chmod, chown, SUID, umask]
 tags: [part1, linux-fundamentals, permissions, security]
+completed: false
 chapter: 4
 ---
 
@@ -126,4 +127,7 @@ umask               # Show current (usually 022)
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 03 — Files & Directories Mastery]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 05 — Users & Groups]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 03 — Files & Directories Mastery]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 05 — Users & Groups]]

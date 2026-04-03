@@ -1,6 +1,7 @@
 ---
 aliases: [Firewalls, ufw, iptables, Network Security, NAT]
 tags: [part5, networking-advanced, firewall, ufw, iptables, security]
+completed: false
 chapter: 25
 ---
 
@@ -78,4 +79,7 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 24 — Network Tools & Diagnostics]] | [[Part 5 — Networking Advanced]] | **Next →** [[Ch 26 — Load Balancing & Proxies]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 24 — Network Tools & Diagnostics]] | [[Part 5 — Networking Advanced]] | **Next →** [[Ch 26 — Load Balancing & Proxies]]

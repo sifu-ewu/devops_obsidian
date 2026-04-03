@@ -1,6 +1,7 @@
 ---
 aliases: [Why Linux Won, Linux vs Windows]
 tags: [part0, linux-history, linux-vs-windows]
+completed: false
 chapter: 0.3
 ---
 
@@ -58,4 +59,7 @@ Windows runs on desktops. Linux runs the world.
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 0.2 — Birth of Linux]] | [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.4 — Problems Linux Solves]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 0.2 — Birth of Linux]] | [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.4 — Problems Linux Solves]]

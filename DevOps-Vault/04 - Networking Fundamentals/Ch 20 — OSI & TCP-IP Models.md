@@ -1,6 +1,7 @@
 ---
 aliases: [OSI Model, TCP/IP, TCP vs UDP, Ports, 3-Way Handshake]
 tags: [part4, networking, osi, tcp-ip, tcp, udp, ports]
+completed: false
 chapter: 20
 ---
 
@@ -99,4 +100,7 @@ ss -tan    # See TCP states: LISTEN, ESTABLISHED, FIN-WAIT, etc.
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 19 — What is a Network]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 21 — IP Addressing & Subnetting]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 19 — What is a Network]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 21 — IP Addressing & Subnetting]]

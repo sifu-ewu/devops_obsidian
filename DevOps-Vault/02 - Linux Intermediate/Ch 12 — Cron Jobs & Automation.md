@@ -1,6 +1,7 @@
 ---
 aliases: [Cron Jobs, Crontab, Automation, Scheduling]
 tags: [part2, linux-intermediate, cron, automation, scheduling]
+completed: false
 chapter: 12
 ---
 
@@ -75,4 +76,7 @@ crontab -r          # REMOVE your crontab
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 11 — Environment Systemd & Services]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 13 — Logs & System Monitoring]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 11 — Environment Systemd & Services]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 13 — Logs & System Monitoring]]

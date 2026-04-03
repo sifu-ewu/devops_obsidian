@@ -1,6 +1,7 @@
 ---
 aliases: [Logs, System Monitoring, Log Analysis]
 tags: [part2, linux-intermediate, logs, monitoring, syslog]
+completed: false
 chapter: 13
 ---
 
@@ -81,4 +82,7 @@ nethogs                         # Network per process
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 12 — Cron Jobs & Automation]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 14 — SSH & Remote Access]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 12 — Cron Jobs & Automation]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 14 — SSH & Remote Access]]

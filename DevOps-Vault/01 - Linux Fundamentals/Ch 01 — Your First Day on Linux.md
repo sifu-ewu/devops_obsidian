@@ -1,6 +1,7 @@
 ---
 aliases: [First Day on Linux, Terminal Basics, Shell]
 tags: [part1, linux-fundamentals, terminal, shell, beginner]
+completed: false
 chapter: 1
 ---
 
@@ -121,4 +122,7 @@ apropos keyword     # Search man pages for keyword
 
 ---
 
-> **Navigation:** [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 02 — The Linux File System]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 02 — The Linux File System]]

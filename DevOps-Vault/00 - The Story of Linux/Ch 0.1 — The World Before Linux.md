@@ -1,6 +1,7 @@
 ---
 aliases: [World Before Linux, UNIX History]
 tags: [part0, linux-history, unix]
+completed: false
 chapter: 0.1
 ---
 
@@ -79,4 +80,7 @@ A young Finnish student named **Linus Torvalds** used MINIX, wanted more from it
 
 ---
 
-> **Navigation:** [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.2 — Birth of Linux]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.2 — Birth of Linux]]

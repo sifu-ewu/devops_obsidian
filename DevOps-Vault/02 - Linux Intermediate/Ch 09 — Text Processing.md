@@ -1,6 +1,7 @@
 ---
 aliases: [Text Processing, grep, awk, sed]
 tags: [part2, linux-intermediate, grep, awk, sed, text-processing]
+completed: false
 chapter: 9
 ---
 
@@ -94,4 +95,7 @@ tee errors.txt                  # Write to file AND stdout
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 08 — Bash Shell Scripting]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 10 — Storage & Disk Management]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 08 — Bash Shell Scripting]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 10 — Storage & Disk Management]]

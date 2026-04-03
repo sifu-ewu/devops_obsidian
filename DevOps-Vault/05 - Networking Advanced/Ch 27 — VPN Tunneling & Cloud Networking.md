@@ -1,6 +1,7 @@
 ---
 aliases: [VPN, SSH Tunneling, Cloud Networking, VPC, Security Groups]
 tags: [part5, networking-advanced, vpn, ssh-tunnel, cloud, vpc]
+completed: false
 chapter: 27
 ---
 
@@ -73,4 +74,7 @@ autossh -M 0 -N -L 3306:db.internal:3306 user@bastion &
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 26 — Load Balancing & Proxies]] | [[Part 5 — Networking Advanced]] | **Next Part →** [[Part 6 — DevOps Toolchain]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 26 — Load Balancing & Proxies]] | [[Part 5 — Networking Advanced]] | **Next Part →** [[Part 6 — DevOps Toolchain]]

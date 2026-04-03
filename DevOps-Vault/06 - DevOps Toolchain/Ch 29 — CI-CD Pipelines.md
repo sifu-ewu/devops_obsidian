@@ -1,6 +1,7 @@
 ---
 aliases: [CI/CD, Continuous Integration, Continuous Deployment, GitHub Actions, Pipelines]
 tags: [part6, devops-tools, ci-cd, github-actions, pipelines, automation]
+completed: false
 chapter: 29
 ---
 
@@ -114,4 +115,7 @@ jobs:
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 28 — Docker & Containers]] | [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 30 — Infrastructure as Code]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 28 — Docker & Containers]] | [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 30 — Infrastructure as Code]]

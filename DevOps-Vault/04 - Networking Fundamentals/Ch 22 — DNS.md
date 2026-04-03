@@ -1,6 +1,7 @@
 ---
 aliases: [DNS, Domain Name System, dig, nslookup, DNS Records]
 tags: [part4, networking, dns, domain, resolution]
+completed: false
 chapter: 22
 ---
 
@@ -85,4 +86,7 @@ echo "192.168.1.50 staging.myapp.com" | sudo tee -a /etc/hosts
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 21 — IP Addressing & Subnetting]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 23 — HTTP HTTPS & Web]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 21 — IP Addressing & Subnetting]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 23 — HTTP HTTPS & Web]]

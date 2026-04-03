@@ -1,6 +1,7 @@
 ---
 aliases: [Problems Linux Solves, Linux Use Cases]
 tags: [part0, linux-history, devops]
+completed: false
 chapter: 0.4
 ---
 
@@ -48,4 +49,7 @@ Linux runs on tiny devices (Raspberry Pi uses 1GB RAM). The same kernel that run
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 0.3 — Why Linux Won]] | [[Part 0 — The Story of Linux]] | **Next Part →** [[Part 1 — Linux Fundamentals]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 0.3 — Why Linux Won]] | [[Part 0 — The Story of Linux]] | **Next Part →** [[Part 1 — Linux Fundamentals]]

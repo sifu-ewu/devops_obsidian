@@ -1,6 +1,7 @@
 ---
 aliases: [HTTP, HTTPS, TLS, SSL, curl, Status Codes, REST]
 tags: [part4, networking, http, https, tls, web, curl]
+completed: false
 chapter: 23
 ---
 
@@ -87,4 +88,7 @@ curl -o /dev/null -s -w "%{http_code}" https://example.com
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 22 — DNS]] | [[Part 4 — Networking Fundamentals]] | **Next Part →** [[Part 5 — Networking Advanced]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 22 — DNS]] | [[Part 4 — Networking Fundamentals]] | **Next Part →** [[Part 5 — Networking Advanced]]

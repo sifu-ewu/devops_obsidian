@@ -1,6 +1,7 @@
 ---
 aliases: [SSH, Remote Access, SSH Keys, SSH Config]
 tags: [part2, linux-intermediate, ssh, security, remote-access]
+completed: false
 chapter: 14
 ---
 
@@ -114,4 +115,7 @@ sudo systemctl reload sshd      # Apply changes
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 13 — Logs & System Monitoring]] | [[Part 2 — Linux Intermediate]] | **Next Part →** [[Part 3 — Linux Advanced]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 13 — Logs & System Monitoring]] | [[Part 2 — Linux Intermediate]] | **Next Part →** [[Part 3 — Linux Advanced]]

@@ -50,6 +50,20 @@
       }
     },
     {
+      "query": "tag:#networking-advanced",
+      "color": {
+        "a": 1,
+        "rgb": 4194815
+      }
+    },
+    {
+      "query": "tag:#practice",
+      "color": {
+        "a": 1,
+        "rgb": 10040166
+      }
+    },
+    {
       "query": "tag:#MOC",
       "color": {
         "a": 1,
@@ -67,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.362887369301211,
+  "scale": 0.3628873693012104,
   "close": false
 }

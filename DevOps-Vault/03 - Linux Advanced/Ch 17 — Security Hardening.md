@@ -1,6 +1,7 @@
 ---
 aliases: [Security Hardening, Defense in Depth, fail2ban, auditd]
 tags: [part3, linux-advanced, security, hardening, firewall]
+completed: false
 chapter: 17
 ---
 
@@ -123,4 +124,7 @@ ss -tulpn    # Each open port is an attack surface
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 16 — Performance Tuning]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 18 — Linux Networking Config]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 16 — Performance Tuning]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 18 — Linux Networking Config]]

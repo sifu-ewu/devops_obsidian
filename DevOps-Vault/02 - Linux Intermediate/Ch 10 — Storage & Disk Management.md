@@ -1,6 +1,7 @@
 ---
 aliases: [Storage, Disk Management, LVM, Partitions, fstab]
 tags: [part2, linux-intermediate, storage, lvm, disk]
+completed: false
 chapter: 10
 ---
 
@@ -94,4 +95,7 @@ resize2fs /dev/data_vg/db_lv           # Grow ext4
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 09 — Text Processing]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 11 — Environment Systemd & Services]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 09 — Text Processing]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 11 — Environment Systemd & Services]]

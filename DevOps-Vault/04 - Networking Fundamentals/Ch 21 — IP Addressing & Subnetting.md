@@ -1,6 +1,7 @@
 ---
 aliases: [IP Addressing, Subnetting, CIDR, IPv4, Public Private IP]
 tags: [part4, networking, ip, subnetting, cidr]
+completed: false
 chapter: 21
 ---
 
@@ -93,4 +94,7 @@ sudo apt install ipcalc; ipcalc 192.168.1.0/24
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 20 — OSI & TCP-IP Models]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 22 — DNS]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 20 — OSI & TCP-IP Models]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 22 — DNS]]

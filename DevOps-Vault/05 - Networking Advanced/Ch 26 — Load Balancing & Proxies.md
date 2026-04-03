@@ -1,6 +1,7 @@
 ---
 aliases: [Load Balancing, Reverse Proxy, Nginx, Proxy]
 tags: [part5, networking-advanced, load-balancing, nginx, reverse-proxy]
+completed: false
 chapter: 26
 ---
 
@@ -102,4 +103,7 @@ systemctl reload nginx  # Apply without downtime
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 25 — Firewalls & Network Security]] | [[Part 5 — Networking Advanced]] | **Next →** [[Ch 27 — VPN Tunneling & Cloud Networking]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 25 — Firewalls & Network Security]] | [[Part 5 — Networking Advanced]] | **Next →** [[Ch 27 — VPN Tunneling & Cloud Networking]]

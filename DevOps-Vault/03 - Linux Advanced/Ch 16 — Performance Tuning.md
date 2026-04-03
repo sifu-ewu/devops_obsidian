@@ -1,6 +1,7 @@
 ---
 aliases: [Performance Tuning, Troubleshooting, USE Method]
 tags: [part3, linux-advanced, performance, troubleshooting, monitoring]
+completed: false
 chapter: 16
 ---
 
@@ -94,4 +95,7 @@ dmesg | grep -i "killed process"
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 15 — Linux Kernel & Namespaces]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 17 — Security Hardening]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 15 — Linux Kernel & Namespaces]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 17 — Security Hardening]]

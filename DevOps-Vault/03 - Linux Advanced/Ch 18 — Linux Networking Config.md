@@ -1,6 +1,7 @@
 ---
 aliases: [Network Config, Netplan, ip command, Interfaces]
 tags: [part3, linux-advanced, networking, netplan, interfaces]
+completed: false
 chapter: 18
 ---
 
@@ -83,4 +84,7 @@ sudo netplan try        # Test (auto-reverts if you don't confirm)
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 17 — Security Hardening]] | [[Part 3 — Linux Advanced]] | **Next Part →** [[Part 4 — Networking Fundamentals]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 17 — Security Hardening]] | [[Part 3 — Linux Advanced]] | **Next Part →** [[Part 4 — Networking Fundamentals]]

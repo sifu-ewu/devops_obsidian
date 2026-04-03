@@ -1,6 +1,7 @@
 ---
 aliases: [IaC, Infrastructure as Code, Terraform, Ansible]
 tags: [part6, devops-tools, iac, terraform, ansible]
+completed: false
 chapter: 30
 ---
 
@@ -124,4 +125,7 @@ terraform destroy   # Tear down everything
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 29 — CI-CD Pipelines]] | [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 31 — Monitoring & Observability]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 29 — CI-CD Pipelines]] | [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 31 — Monitoring & Observability]]

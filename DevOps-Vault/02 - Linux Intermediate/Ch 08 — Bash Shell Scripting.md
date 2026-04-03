@@ -1,6 +1,7 @@
 ---
 aliases: [Bash Scripting, Shell Script, Bash]
 tags: [part2, linux-intermediate, bash, scripting, automation]
+completed: false
 chapter: 8
 ---
 
@@ -160,4 +161,7 @@ trap 'cleanup' EXIT
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 07 — Process Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 09 — Text Processing]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 07 — Process Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 09 — Text Processing]]

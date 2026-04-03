@@ -1,6 +1,7 @@
 ---
 aliases: [Users and Groups, useradd, sudo]
 tags: [part1, linux-fundamentals, users, groups, sudo]
+completed: false
 chapter: 5
 ---
 
@@ -111,4 +112,7 @@ john        ALL=(ALL) NOPASSWD: /bin/apt   # No password for apt
 
 ---
 
-> **Navigation:** **← Prev** [[Ch 04 — File Permissions]] | [[Part 1 — Linux Fundamentals]] | **Next Part →** [[Part 2 — Linux Intermediate]]
+
+- [ ] Mark as completed
+> [!tip] 🧭 Navigation
+> **← Prev** [[Ch 04 — File Permissions]] | [[Part 1 — Linux Fundamentals]] | **Next Part →** [[Part 2 — Linux Intermediate]]

@@ -33,7 +33,13 @@ Each chapter note has:
 
 ---
 
-## 📚 Vault Map of Content
+## � [[Progress Tracker|Your Progress Tracker →]]
+
+Open [[Progress Tracker]] to see all 35 chapters, sort by completion, and tick off chapters as you finish them. In each chapter, check the `- [ ] Mark as completed` box at the bottom when done.
+
+---
+
+## �📚 Vault Map of Content
 
 ### 🏛️ [[Part 0 — The Story of Linux|PART 0: THE STORY — Why Linux Exists]]
 
