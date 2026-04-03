@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "00 - The Story of Linux/Ch 0.1 — The World Before Linux.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Ch 0.1 — The World Before Linux"
             }
           }
         ]
@@ -196,11 +196,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 - The Story of Linux/Part 0 — The Story of Linux.md",
+    "Home.md",
     "00 - The Story of Linux/Ch 0.1 — The World Before Linux.md",
     "Progress Tracker.base",
-    "Home.md",
     "00 - The Story of Linux/Ch 0.2 — Birth of Linux.md",
-    "00 - The Story of Linux/Part 0 — The Story of Linux.md",
     "07 - Practice/DevOps Roadmap.md",
     "04 - Networking Fundamentals/Ch 23 — HTTP HTTPS & Web.md"
   ]
