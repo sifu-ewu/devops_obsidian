@@ -1,6 +1,12 @@
 ---
-aliases: [Part 1, Linux Basics]
-tags: [MOC, part1, linux-fundamentals]
+aliases:
+  - Part 1
+  - Linux Basics
+tags:
+  - MOC
+  - part1
+  - linux-fundamentals
+completed: false
 ---
 
 # 🐧 Part 1 — Linux Fundamentals

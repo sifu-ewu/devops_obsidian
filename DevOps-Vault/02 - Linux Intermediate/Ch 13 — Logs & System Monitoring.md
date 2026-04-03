@@ -82,7 +82,9 @@ nethogs                         # Network per process
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 12 — Cron Jobs & Automation]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 14 — SSH & Remote Access]]

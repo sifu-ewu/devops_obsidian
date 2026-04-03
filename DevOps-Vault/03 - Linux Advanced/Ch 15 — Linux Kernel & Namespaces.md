@@ -102,7 +102,9 @@ systemctl set-default multi-user.target  # Server mode (no GUI)
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 14 — SSH & Remote Access]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 16 — Performance Tuning]]

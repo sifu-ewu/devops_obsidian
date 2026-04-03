@@ -1,0 +1,6 @@
+{
+  "types": {
+    "completed": "checkbox",
+    "chapter": "number"
+  }
+}

@@ -1,6 +1,12 @@
 ---
-aliases: [Part 5, Networking Advanced]
-tags: [MOC, part5, networking-advanced]
+aliases:
+  - Part 5
+  - Networking Advanced
+tags:
+  - MOC
+  - part5
+  - networking-advanced
+completed: false
 ---
 
 # 🔥 Part 5 — Networking Advanced

@@ -92,7 +92,9 @@ groups:
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 30 — Infrastructure as Code]] | [[Part 6 — DevOps Toolchain]] | **Next Part →** [[Part 7 — Practice]]

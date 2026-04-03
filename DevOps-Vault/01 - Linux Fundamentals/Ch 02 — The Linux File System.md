@@ -105,7 +105,9 @@ lsblk                   # What disks/partitions exist?
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 01 — Your First Day on Linux]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 03 — Files & Directories Mastery]]

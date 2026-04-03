@@ -76,7 +76,9 @@ crontab -r          # REMOVE your crontab
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 11 — Environment Systemd & Services]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 13 — Logs & System Monitoring]]

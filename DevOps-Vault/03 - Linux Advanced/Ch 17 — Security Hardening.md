@@ -124,7 +124,9 @@ ss -tulpn    # Each open port is an attack surface
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 16 — Performance Tuning]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 18 — Linux Networking Config]]

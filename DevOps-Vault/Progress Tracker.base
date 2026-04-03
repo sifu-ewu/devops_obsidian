@@ -1,15 +1,27 @@
-{
-  "filters": {
-    "and": []
-  },
-  "order": {
-    "property": "chapter",
-    "direction": "asc"
-  },
-  "properties": [
-    { "id": "file.link", "visible": true, "width": 280 },
-    { "id": "chapter", "visible": true, "width": 70 },
-    { "id": "completed", "visible": true, "width": 100 },
-    { "id": "tags", "visible": true, "width": 200 }
-  ]
-}
+order:
+  property: chapter
+  direction: asc
+properties:
+  "0":
+    id: file.link
+    visible: true
+    width: 280
+  "1":
+    id: chapter
+    visible: true
+    width: 70
+  "2":
+    id: completed
+    visible: true
+    width: 100
+  "3":
+    id: tags
+    visible: true
+    width: 200
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - completed
+    sort: []

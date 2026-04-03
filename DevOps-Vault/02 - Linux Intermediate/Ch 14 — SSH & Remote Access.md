@@ -115,7 +115,9 @@ sudo systemctl reload sshd      # Apply changes
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 13 — Logs & System Monitoring]] | [[Part 2 — Linux Intermediate]] | **Next Part →** [[Part 3 — Linux Advanced]]

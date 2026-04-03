@@ -115,7 +115,9 @@ jobs:
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 28 — Docker & Containers]] | [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 30 — Infrastructure as Code]]

@@ -127,7 +127,9 @@ umask               # Show current (usually 022)
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 03 — Files & Directories Mastery]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 05 — Users & Groups]]

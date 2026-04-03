@@ -95,7 +95,9 @@ resize2fs /dev/data_vg/db_lv           # Grow ext4
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 09 — Text Processing]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 11 — Environment Systemd & Services]]

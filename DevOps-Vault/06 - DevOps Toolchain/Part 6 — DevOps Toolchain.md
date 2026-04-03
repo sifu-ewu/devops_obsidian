@@ -1,6 +1,12 @@
 ---
-aliases: [Part 6, DevOps Toolchain]
-tags: [MOC, part6, devops-tools]
+aliases:
+  - Part 6
+  - DevOps Toolchain
+tags:
+  - MOC
+  - part6
+  - devops-tools
+completed: false
 ---
 
 # ⚙️ Part 6 — DevOps Toolchain

@@ -1,6 +1,14 @@
 ---
-aliases: [DevOps Roadmap, What Next, Learning Path]
-tags: [part7, practice, roadmap, career]
+aliases:
+  - DevOps Roadmap
+  - What Next
+  - Learning Path
+tags:
+  - part7
+  - practice
+  - roadmap
+  - career
+completed: false
 ---
 
 # 🗺️ DevOps Roadmap

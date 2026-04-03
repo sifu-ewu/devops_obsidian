@@ -1,6 +1,13 @@
 ---
-aliases: [Quiz Answers, Answers]
-tags: [part7, practice, quiz, answers]
+aliases:
+  - Quiz Answers
+  - Answers
+tags:
+  - part7
+  - practice
+  - quiz
+  - answers
+completed: false
 ---
 
 # 🧠 Quiz Answers

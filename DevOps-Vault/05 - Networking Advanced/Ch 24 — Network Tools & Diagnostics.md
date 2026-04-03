@@ -80,7 +80,9 @@ nload; iftop; nethogs; bmon
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > [[Part 5 — Networking Advanced]] | **Next →** [[Ch 25 — Firewalls & Network Security]]

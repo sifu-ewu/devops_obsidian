@@ -103,7 +103,9 @@ systemctl reload nginx  # Apply without downtime
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 25 — Firewalls & Network Security]] | [[Part 5 — Networking Advanced]] | **Next →** [[Ch 27 — VPN Tunneling & Cloud Networking]]

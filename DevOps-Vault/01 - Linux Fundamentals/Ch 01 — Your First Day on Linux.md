@@ -122,7 +122,9 @@ apropos keyword     # Search man pages for keyword
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 02 — The Linux File System]]

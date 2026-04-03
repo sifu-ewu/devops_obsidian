@@ -84,7 +84,9 @@ sudo netplan try        # Test (auto-reverts if you don't confirm)
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 17 — Security Hardening]] | [[Part 3 — Linux Advanced]] | **Next Part →** [[Part 4 — Networking Fundamentals]]

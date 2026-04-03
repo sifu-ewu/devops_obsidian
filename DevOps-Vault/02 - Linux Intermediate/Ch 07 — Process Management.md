@@ -103,7 +103,9 @@ renice -n 5 -p 1234                  # Change running process priority
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 06 — Package Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 08 — Bash Shell Scripting]]

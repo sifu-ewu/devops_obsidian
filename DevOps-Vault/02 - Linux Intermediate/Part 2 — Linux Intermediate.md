@@ -1,6 +1,12 @@
 ---
-aliases: [Part 2, Linux Intermediate]
-tags: [MOC, part2, linux-intermediate]
+aliases:
+  - Part 2
+  - Linux Intermediate
+tags:
+  - MOC
+  - part2
+  - linux-intermediate
+completed: false
 ---
 
 # ⚙️ Part 2 — Linux Intermediate

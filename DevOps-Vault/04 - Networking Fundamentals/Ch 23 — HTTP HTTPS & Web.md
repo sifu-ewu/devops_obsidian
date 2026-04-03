@@ -88,7 +88,9 @@ curl -o /dev/null -s -w "%{http_code}" https://example.com
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 22 — DNS]] | [[Part 4 — Networking Fundamentals]] | **Next Part →** [[Part 5 — Networking Advanced]]

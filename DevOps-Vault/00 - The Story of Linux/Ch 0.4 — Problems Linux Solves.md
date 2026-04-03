@@ -49,7 +49,9 @@ Linux runs on tiny devices (Raspberry Pi uses 1GB RAM). The same kernel that run
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 0.3 — Why Linux Won]] | [[Part 0 — The Story of Linux]] | **Next Part →** [[Part 1 — Linux Fundamentals]]

@@ -1,6 +1,12 @@
 ---
-aliases: [Part 0, History of Linux]
-tags: [MOC, part0, linux-history]
+aliases:
+  - Part 0
+  - History of Linux
+tags:
+  - MOC
+  - part0
+  - linux-history
+completed: false
 ---
 
 # 🏛️ Part 0 — The Story of Linux

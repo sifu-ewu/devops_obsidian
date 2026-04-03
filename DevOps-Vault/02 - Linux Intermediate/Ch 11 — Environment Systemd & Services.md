@@ -94,7 +94,9 @@ journalctl --vacuum-size=500M       # Trim logs to 500MB
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 10 — Storage & Disk Management]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 12 — Cron Jobs & Automation]]

@@ -1,6 +1,14 @@
 ---
-aliases: [Lab Projects, Labs, Hands-on]
-tags: [part7, practice, labs, hands-on]
+aliases:
+  - Lab Projects
+  - Labs
+  - Hands-on
+tags:
+  - part7
+  - practice
+  - labs
+  - hands-on
+completed: false
 ---
 
 # 🔬 Lab Projects

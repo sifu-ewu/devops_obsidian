@@ -1,6 +1,12 @@
 ---
-aliases: [Part 3, Linux Advanced]
-tags: [MOC, part3, linux-advanced]
+aliases:
+  - Part 3
+  - Linux Advanced
+tags:
+  - MOC
+  - part3
+  - linux-advanced
+completed: false
 ---
 
 # 🔥 Part 3 — Linux Advanced (DevOps Level)

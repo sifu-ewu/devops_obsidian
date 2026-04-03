@@ -1,7 +1,13 @@
 ---
-aliases: [Home, Dashboard, Index]
-tags: [MOC, dashboard]
+aliases:
+  - Home
+  - Dashboard
+  - Index
+tags:
+  - MOC
+  - dashboard
 cssclass: wide-page
+completed: false
 ---
 
 # 🚀 The Complete DevOps Foundation: Linux & Networking

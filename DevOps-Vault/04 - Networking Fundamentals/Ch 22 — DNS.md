@@ -86,7 +86,9 @@ echo "192.168.1.50 staging.myapp.com" | sudo tee -a /etc/hosts
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 21 — IP Addressing & Subnetting]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 23 — HTTP HTTPS & Web]]

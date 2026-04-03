@@ -79,7 +79,9 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 24 — Network Tools & Diagnostics]] | [[Part 5 — Networking Advanced]] | **Next →** [[Ch 26 — Load Balancing & Proxies]]

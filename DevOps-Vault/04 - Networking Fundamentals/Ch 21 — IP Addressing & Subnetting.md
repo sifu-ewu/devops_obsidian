@@ -94,7 +94,9 @@ sudo apt install ipcalc; ipcalc 192.168.1.0/24
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 20 — OSI & TCP-IP Models]] | [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 22 — DNS]]

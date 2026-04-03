@@ -112,7 +112,9 @@ john        ALL=(ALL) NOPASSWD: /bin/apt   # No password for apt
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 04 — File Permissions]] | [[Part 1 — Linux Fundamentals]] | **Next Part →** [[Part 2 — Linux Intermediate]]

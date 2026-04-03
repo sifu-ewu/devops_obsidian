@@ -92,7 +92,9 @@ npm install -g pm2              # Node.js packages
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 07 — Process Management]]

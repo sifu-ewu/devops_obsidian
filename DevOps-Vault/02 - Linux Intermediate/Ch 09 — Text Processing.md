@@ -95,7 +95,9 @@ tee errors.txt                  # Write to file AND stdout
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 08 — Bash Shell Scripting]] | [[Part 2 — Linux Intermediate]] | **Next →** [[Ch 10 — Storage & Disk Management]]

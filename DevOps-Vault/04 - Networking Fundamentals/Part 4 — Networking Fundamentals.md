@@ -1,6 +1,12 @@
 ---
-aliases: [Part 4, Networking Fundamentals]
-tags: [MOC, part4, networking]
+aliases:
+  - Part 4
+  - Networking Fundamentals
+tags:
+  - MOC
+  - part4
+  - networking
+completed: false
 ---
 
 # 🌐 Part 4 — Networking Fundamentals

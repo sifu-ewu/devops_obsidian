@@ -125,7 +125,9 @@ terraform destroy   # Tear down everything
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 29 — CI-CD Pipelines]] | [[Part 6 — DevOps Toolchain]] | **Next →** [[Ch 31 — Monitoring & Observability]]

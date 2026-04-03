@@ -153,7 +153,9 @@ unzip myfiles.zip
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 02 — The Linux File System]] | [[Part 1 — Linux Fundamentals]] | **Next →** [[Ch 04 — File Permissions]]

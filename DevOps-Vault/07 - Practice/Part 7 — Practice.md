@@ -1,6 +1,14 @@
 ---
-aliases: [Part 7, Practice, Labs, Quizzes]
-tags: [MOC, part7, practice]
+aliases:
+  - Part 7
+  - Practice
+  - Labs
+  - Quizzes
+tags:
+  - MOC
+  - part7
+  - practice
+completed: false
 ---
 
 # 🎯 Part 7 — Practice

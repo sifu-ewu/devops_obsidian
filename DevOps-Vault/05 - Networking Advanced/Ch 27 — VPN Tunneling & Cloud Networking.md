@@ -74,7 +74,9 @@ autossh -M 0 -N -L 3306:db.internal:3306 user@bastion &
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 26 — Load Balancing & Proxies]] | [[Part 5 — Networking Advanced]] | **Next Part →** [[Part 6 — DevOps Toolchain]]

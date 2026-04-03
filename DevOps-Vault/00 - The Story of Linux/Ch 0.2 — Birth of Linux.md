@@ -95,7 +95,9 @@ Lines of code in Linux kernel: ~30 MILLION
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 0.1 — The World Before Linux]] | [[Part 0 — The Story of Linux]] | **Next →** [[Ch 0.3 — Why Linux Won]]

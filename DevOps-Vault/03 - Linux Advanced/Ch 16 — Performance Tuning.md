@@ -95,7 +95,9 @@ dmesg | grep -i "killed process"
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > **← Prev** [[Ch 15 — Linux Kernel & Namespaces]] | [[Part 3 — Linux Advanced]] | **Next →** [[Ch 17 — Security Hardening]]

@@ -71,7 +71,9 @@ Total time: ~200-400 milliseconds!
 
 ---
 
+> [!success]- ✅ Mark this chapter as done
+> Scroll to the **top of this note** → click the **`completed`** checkbox in the Properties panel → it automatically ticks in [[Progress Tracker]].
 
-- [ ] Mark as completed
+---
 > [!tip] 🧭 Navigation
 > [[Part 4 — Networking Fundamentals]] | **Next →** [[Ch 20 — OSI & TCP-IP Models]]
