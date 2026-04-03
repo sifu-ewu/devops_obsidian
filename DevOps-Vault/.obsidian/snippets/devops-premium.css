@@ -1,0 +1,85 @@
+/* ═══════════════════════════════════════════════════
+   DevOps Vault — Premium Theme Snippet
+   Enable in Settings → Appearance → CSS Snippets
+   ═══════════════════════════════════════════════════ */
+
+/* ── Headings ──────────────────────────────────────── */
+.markdown-preview-view h1 {
+  border-bottom: 2px solid var(--interactive-accent);
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+}
+
+.markdown-preview-view h2 {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.2em;
+  margin-top: 1.5em;
+}
+
+/* ── Callout Icons & Colors ────────────────────────── */
+.callout[data-callout="terminal"] {
+  --callout-color: 125, 211, 252;
+  --callout-icon: terminal;
+}
+
+.callout[data-callout="devops"] {
+  --callout-color: 255, 165, 0;
+  --callout-icon: rocket;
+}
+
+.callout[data-callout="lab"] {
+  --callout-color: 46, 204, 113;
+  --callout-icon: flask-conical;
+}
+
+.callout[data-callout="quiz"] {
+  --callout-color: 155, 89, 182;
+  --callout-icon: help-circle;
+}
+
+/* ── Code blocks ───────────────────────────────────── */
+.markdown-preview-view pre {
+  border-left: 3px solid var(--interactive-accent);
+  border-radius: 6px;
+}
+
+/* ── Tags ──────────────────────────────────────────── */
+.tag {
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.85em;
+}
+
+/* ── Mermaid diagrams ──────────────────────────────── */
+.mermaid svg {
+  max-width: 100%;
+}
+
+/* ── Navigation links at bottom ────────────────────── */
+.markdown-preview-view blockquote:last-child {
+  border-left-color: var(--interactive-accent);
+  background: var(--background-secondary);
+  border-radius: 6px;
+  padding: 0.8em 1em;
+}
+
+/* ── Tables ────────────────────────────────────────── */
+.markdown-preview-view table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.markdown-preview-view th {
+  background: var(--background-secondary);
+  font-weight: 700;
+}
+
+.markdown-preview-view td, 
+.markdown-preview-view th {
+  padding: 8px 12px;
+  border: 1px solid var(--background-modifier-border);
+}
+
+.markdown-preview-view tr:nth-child(even) {
+  background: var(--background-secondary-alt);
+}

@@ -1,0 +1,28 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "tag:#part0", "color": { "a": 1, "rgb": 14701138 } },
+    { "query": "tag:#linux-fundamentals", "color": { "a": 1, "rgb": 5431378 } },
+    { "query": "tag:#linux-intermediate", "color": { "a": 1, "rgb": 16742912 } },
+    { "query": "tag:#linux-advanced", "color": { "a": 1, "rgb": 16729156 } },
+    { "query": "tag:#networking", "color": { "a": 1, "rgb": 2003199 } },
+    { "query": "tag:#devops-tools", "color": { "a": 1, "rgb": 8388352 } },
+    { "query": "tag:#MOC", "color": { "a": 1, "rgb": 16776960 } }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.5,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250
+}

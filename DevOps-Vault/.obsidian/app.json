@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "tabSize": 4,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "autoConvertHtml": true
+}
